@@ -78,10 +78,12 @@ I am a passionate **Computer Science Engineering Student** at **Lendi Institute 
 <img src="https://img.shields.io/badge/GPIO_Programming-4186F5?style=for-the-badge&logo=microarchitecture&logoColor=white" alt="GPIO" />
 <img src="https://img.shields.io/badge/I2C_Communication-2D3748?style=for-the-badge&logo=cpu&logoColor=white" alt="I2C" />
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+<a href="https://render.com/" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" /></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
 <a href="https://www.blender.org/" target="_blank"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
 
@@ -90,13 +92,13 @@ I am a passionate **Computer Science Engineering Student** at **Lendi Institute 
 ## 🚀 Featured Projects
 
 ### 🏡 Virtual Builder | AI-Powered Architectural Design Tool `Flagship`
-* **Description:** Developed a responsive AI web application that generates modern room layouts and architectural concepts. Engineered the system to focus on practical, highly functional interior designs with a clean, minimalist user interface.
-* **Tech Stack:** `React`, `JavaScript`, `HTML`, `CSS`, `AI APIs`
+* **Description:** Developed a responsive AI web application that generates modern room layouts and architectural concepts. Engineered the system to focus on practical, highly functional interior designs with a clean, minimalist user interface. Deployed and optimized on Vercel.
+* **Tech Stack:** `React`, `JavaScript`, `HTML`, `CSS`, `AI APIs`, `Vercel`
 * **Features:** Instant design rendering, modern aesthetic output, intuitive layout control.
 
 ### 🎬 NextFrame AI | Live AI Web Application `Flagship`
-* **Description:** A full-stack AI-powered application designed to generate actionable insights for digital creators using advanced Natural Language Processing (NLP). Features a scalable backend architecture and a modern minimalist interface that ensures excellent performance, accessibility, and user experience.
-* **Tech Stack:** `Python`, `Flask`, `React`, `JavaScript`, `NLP`
+* **Description:** A full-stack AI-powered application designed to generate actionable insights for digital creators using advanced Natural Language Processing (NLP). Features a scalable Flask backend architecture hosted on Render, and a modern React frontend hosted on Vercel, ensuring excellent performance, accessibility, and user experience.
+* **Tech Stack:** `Python`, `Flask`, `React`, `JavaScript`, `NLP`, `Vercel`, `Render`
 * **Features:** Live data streaming, natural language feedback loops, robust API routing.
 
 ### 😷 Face Mask Detection System
