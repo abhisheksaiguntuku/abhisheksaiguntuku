@@ -130,14 +130,6 @@ I am a passionate **Computer Science Engineering Student** at **Lendi Institute 
 
 ---
 
-## 🏆 Achievements & Badges
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhisheksaiguntuku&theme=onedark&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📊 GitHub Stats & Metrics
 
 <div align="center">
