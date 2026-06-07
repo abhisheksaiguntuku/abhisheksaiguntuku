@@ -112,10 +112,6 @@ I am a passionate **Computer Science Engineering Student** at **Lendi Institute 
 * **Description:** A Computer Vision application capable of detecting whether a person is wearing a face mask in real time using webcam input.
 * **Tech Stack:** `Python`, `OpenCV`, `TensorFlow`, `Machine Learning`
 
-### 🩺 Diabetes Prediction System
-* **Description:** A Machine Learning application that predicts the likelihood of diabetes using Logistic Regression and patient health data.
-* **Tech Stack:** `Python`, `Pandas`, `NumPy`, `Scikit-Learn`
-
 ---
 
 ## 🎓 Academic & Research Projects
