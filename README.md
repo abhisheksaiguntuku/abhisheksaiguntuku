@@ -1,5 +1,12 @@
 <div align="center">
   
+  <!-- Profile Photo -->
+  <a href="https://github.com/abhisheksaiguntuku">
+    <img src="https://github.com/abhisheksaiguntuku.png" width="150" style="border-radius: 50%; border: 4px solid #39DF8A; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Guntuku Abhishek Sai" />
+  </a>
+  
+  <br /><br />
+
   <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=abhisheksaiguntuku&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
