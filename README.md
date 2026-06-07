@@ -133,7 +133,7 @@ I am a passionate **Computer Science Engineering Student** at **Lendi Institute 
 ## 🏆 Achievements & Badges
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhisheksaiguntuku&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhisheksaiguntuku&theme=onedark&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -144,16 +144,16 @@ I am a passionate **Computer Science Engineering Student** at **Lendi Institute 
   <table border="0">
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=abhisheksaiguntuku&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api?username=abhisheksaiguntuku&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksaiguntuku&theme=tokyonight" alt="GitHub Streak" width="100%" />
+        <img src="https://streak-stats.demolab.com/?user=abhisheksaiguntuku&theme=tokyonight" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaiguntuku&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhisheksaiguntuku&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
       </td>
     </tr>
   </table>
